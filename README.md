@@ -1,0 +1,2 @@
+# gugan-ai
+Stocks Manager
